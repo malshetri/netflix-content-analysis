@@ -23,8 +23,10 @@ The analysis was done entirely in **Python**, using Pandas, NumPy, Matplotlib, a
 - International Movies, Dramas, and Comedies are the most common genres.
 
 ## 📷 Sample Visualizations
-*(Insert screenshots of your best charts here — e.g., movies vs TV shows, growth over years, ratings distribution, top genres, world map of content.)*
-
+![Movies vs TV Shows](movies-vs-tvshows.png)  
+![Top 10 Countries Producing Netflix Content](top10-countries.png)  
+![Top 10 Genres on Netflix](top10-genres.png)  
+![Content Growth Over the Years](growth_over_years.png)  
 ## 🚀 How to Run This Project
 1. Clone this repository:
    ```bash
