@@ -74,7 +74,7 @@ The analysis was done entirely in **Python**, using **Pandas**, **NumPy**, **Mat
 
 ## 📌 Author
 
-**\[Your Name]** — Data Analyst / Data Scientist
+**\[Muneer Al-Shetri]** — Data Analyst
 
 * GitHub: [malshetri](https://github.com/malshetri)
 * LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muneer-al-shetri)
